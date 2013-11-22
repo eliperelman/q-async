@@ -9,5 +9,13 @@
   "devDependencies": {},
   "main": "index.js",
   "author": "Eli Perelman",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eliperelman/q-async.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eliperelman/q-async/issues"
+  },
+  "homepage": "https://github.com/eliperelman/q-async"
 }
