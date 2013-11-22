@@ -1,0 +1,13 @@
+{
+  "name": "q-async",
+  "version": "0.1.0",
+  "description": "Q wrapper for the async package",
+  "dependencies": {
+    "async": "~0.2.9",
+    "q": "~0.9.7"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "author": "Eli Perelman",
+  "license": "MIT"
+}
